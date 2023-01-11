@@ -1,0 +1,16 @@
+{
+  "name": "google-scrape",
+  "version": "1.0.0",
+  "description": "A small NodeJS script that can scrape emails and the site URL directly from a google search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DarkZeus2002",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {}
+}
